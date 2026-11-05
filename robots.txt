@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://massageview.co.kr/sitemap.xml
